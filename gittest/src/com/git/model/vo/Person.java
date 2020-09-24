@@ -7,6 +7,8 @@ public class Person {
 	private double weight;
 	private String[] hobby;
 	private String address;
+	private String phone;
+	private String email;
 
 	public Person() {
 		// TODO Auto-generated constructor stub
