@@ -5,6 +5,7 @@ public class Person {
 	private int age;
 	private double height;
 	private double weight;
+	private String address;
 	
 	public Person() {
 		// TODO Auto-generated constructor stub
